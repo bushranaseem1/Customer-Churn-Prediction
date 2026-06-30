@@ -109,31 +109,32 @@ Customer-Churn-Prediction/
 - Improve model performance with advanced algorithms
 
 ---
+
 ## Project Screenshots
 
 ### Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](images/churn_distribution.PNG)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.PNG)
 
 ### Model Comparison
-![Model Comparison](images/model_comparison_table.png)
+![Model Comparison](images/ccd_model_comparison_table.PNG)
 
 ### Accuracy Comparison
-![Accuracy Comparison](images/accuracy_comparison_chart.png)
+![Accuracy Comparison](images/accuracy_comparison_chart.PNG)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.PNG)
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve.PNG)
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance.PNG)
 
 ### Sample Prediction
-![Sample Prediction](images/ccd_model_prediction.png)
+![Sample Prediction](images/model_prediction.PNG)
 ## Author
 
 **Bushra Naseem**
